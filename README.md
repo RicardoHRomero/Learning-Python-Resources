@@ -1,2 +1,2 @@
 # Learning Python Resources
-Pruebas de cambios 1
+Book: AUTOMATE THE BORING STUFF WITH PYTHON
