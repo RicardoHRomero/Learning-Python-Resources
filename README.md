@@ -152,7 +152,7 @@ This repository contains my notes and solutions to exercises from the book "Auto
       * Step 3: Join the Modified Lines
         
 
-[Notes]([https://github.com/RicardoHRomero/Learning-Python-Resources/blob/main/Chapter_5/notes_Chapter5.ipynb](https://github.com/RicardoHRomero/Learning-Python-Resources/blob/main/Chapter_6/notes_Chapter6.ipynb))
+[Notes](https://github.com/RicardoHRomero/Learning-Python-Resources/blob/main/Chapter_6/notes_Chapter6.ipynb)
 
 [Exercise Solutions](https://github.com/RicardoHRomero/Learning-Python-Resources/blob/main/Chapter_6/practice_Chapter6.ipynb)
 
