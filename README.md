@@ -128,7 +128,33 @@ This repository contains my notes and solutions to exercises from the book "Auto
 [Exercise Solutions](https://github.com/RicardoHRomero/Learning-Python-Resources/blob/main/Chapter_5/practice_Chapter5.ipynb)
 
 
+* ### [Chapter 6: Manipulating Strings](https://github.com/RicardoHRomero/Learning-Python-Resources/tree/main/Chapter_6)
 
+    * Working with Strings
+      * String Literals
+      * Indexing and Slicing Strings
+      * The in and not in Operators with Strings
+    * Useful String Methods
+      * The upper(), lower(), isupper(), and islower() String Methods
+      * The isX String Methods
+      * The startswith() and endswith() String Methods
+      * The join() and split() String Methods
+      * Justifying Text with rjust(), ljust(), and center()
+      * Removing Whitespace with strip(), rstrip(), and lstrip()
+      * Copying and Pasting Strings with the pyperclip Module
+    * Project: Password Locker
+      * Step 1: Program Design and Data Structures
+      * Step 2: Handle Command Line Arguments
+      * Step 3: Copy the Right Password
+    * Project: Adding Bullets to Wiki Markup
+      * Step 1: Copy and Paste from the Clipboard
+      * Step 2: Separate the Lines of Text and Add the Star
+      * Step 3: Join the Modified Lines
+        
+
+[Notes]([https://github.com/RicardoHRomero/Learning-Python-Resources/blob/main/Chapter_5/notes_Chapter5.ipynb](https://github.com/RicardoHRomero/Learning-Python-Resources/blob/main/Chapter_6/notes_Chapter6.ipynb))
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-Python-Resources/blob/main/Chapter_6/practice_Chapter6.ipynb)
 
 
 
